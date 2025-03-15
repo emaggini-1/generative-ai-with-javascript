@@ -12,7 +12,7 @@ If you haven't already, set up your development environment. Here's how you can 
 
 ## Related resources
 
-<a href="https://www.youtube.com/watch?v=GQ_2OjNZ9aA&list=PLlrxD0HtieHi5ZpsHULPLxm839IrhmeDk&index=2" target="_blank">
+<a href="https://www.youtube.com/watch?v=GQ_2OjNZ9aA&list=PLlrxD0HtieHi5ZpsHULPLxm839IrhmeDk&index=2" target="_blank">MOOOO!
   <img src="https://img.youtube.com/vi/GQ_2OjNZ9aA/0.jpg" alt="Watch a short video about large language models">
 </a>
 
